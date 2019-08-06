@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/takeru/.platformio/penv/bin:/Users/takeru/.platformio/penv:/Users/takeru/.rbenv/shims:/usr/local/opt/openssl/bin:/Users/takeru/anaconda3/bin:/Users/takeru/.pyenv/shims:/Users/takeru/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/opt/ImageMagick/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
